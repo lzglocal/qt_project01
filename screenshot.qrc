@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>screenshot/certificate</file>
+        <file>screenshot/certificate64</file>
+        <file>screenshot/icon.png</file>
+        <file>screenshot/screencapture.cupf</file>
+        <file>screenshot/ScreenCapture.dll</file>
+        <file>screenshot/screencapture.exe</file>
+        <file>screenshot/ScreenCapture64.dll</file>
+        <file>screenshot/screencaptureconfig.ini</file>
+    </qresource>
+</RCC>
